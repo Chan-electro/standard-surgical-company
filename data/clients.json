@@ -1,0 +1,22 @@
+[
+  {
+    "name": "CityCare Hospitals",
+    "logo": "/assets/img/clients/citycare.svg",
+    "website": "https://citycare.example.com"
+  },
+  {
+    "name": "Sunrise Dialysis",
+    "logo": "/assets/img/clients/sunrise.svg",
+    "website": "https://sunrisedialysis.example.com"
+  },
+  {
+    "name": "Rainbow Kids Hospital",
+    "logo": "/assets/img/clients/rainbow.svg",
+    "website": "https://rainbowkids.example.com"
+  },
+  {
+    "name": "MetroLife Clinics",
+    "logo": "/assets/img/clients/metrolife.svg",
+    "website": "https://metrolife.example.com"
+  }
+]
