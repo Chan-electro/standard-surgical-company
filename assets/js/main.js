@@ -13,6 +13,7 @@
 
 (function () {
     const placeholderImage = '/assets/img/placeholder-product.jpg';
+    const imageCache = new Map();
 
     document.addEventListener('DOMContentLoaded', () => {
         setupNavigation();
@@ -168,12 +169,28 @@
             card.className = 'product-card';
 
             const img = document.createElement('img');
-            img.src = product.image || placeholderImage;
+            img.loading = 'lazy';
             img.alt = product.title || 'Product image';
+            img.src = placeholderImage;
             img.onerror = function () {
                 this.onerror = null;
                 this.src = placeholderImage;
             };
+
+            if (product.image) {
+                img.src = product.image;
+            } else if (product.url) {
+                img.dataset.productUrl = product.url;
+                fetchProductImage(product.url).then((imageUrl) => {
+                    if (!imageUrl) {
+                        return;
+                    }
+
+                    if (img.dataset.productUrl === product.url) {
+                        img.src = imageUrl;
+                    }
+                });
+            }
 
             const body = document.createElement('div');
             body.className = 'product-body';
@@ -208,5 +225,36 @@
 
         grid.innerHTML = '';
         grid.appendChild(fragment);
+    }
+
+    function fetchProductImage(productUrl) {
+        if (imageCache.has(productUrl)) {
+            return imageCache.get(productUrl);
+        }
+
+        const request = fetch(`/product-image-proxy.php?url=${encodeURIComponent(productUrl)}`, {
+            headers: {
+                Accept: 'application/json'
+            }
+        })
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error('Unable to retrieve product image.');
+                }
+                return response.json();
+            })
+            .then((data) => {
+                if (data && typeof data.image === 'string' && data.image.trim() !== '') {
+                    return data.image.trim();
+                }
+                return null;
+            })
+            .catch((error) => {
+                console.warn(error);
+                return null;
+            });
+
+        imageCache.set(productUrl, request);
+        return request;
     }
 })();

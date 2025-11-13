@@ -1,22 +1,638 @@
 [
   {
     "code": "B5RS00000065",
-    "title": "Suite Beds: 5-Function Single Control Electrical Bed",
+    "title": "Suite Beds: 5-Function Single Control Electrical Bed (With Urine Bag Holder, 2Pcs Heavy Duty P/C Collapsible Rails)",
     "category": "Hospital Beds",
-    "url": "https://www.aslamenterprises.com/products/beds-5-function-single-control-electrical-bed",
-    "image": "/assets/img/products/b5rs00000065.jpg"
+    "url": "https://www.aslamenterprises.com/products/suite-beds%3A-5-function-single-control-electrical-bed-(with-urine-bag-holder%2C-2pcs-heavy-duty-p%2Fc-collapsible-rails)/b5rs00000065"
   },
   {
-    "code": "AEWC00000123",
-    "title": "Advance Emergency Transport Stretcher",
+    "code": "B5RP00000001",
+    "title": "Dual Control 5-Function Electrical Premium Bed With Central Locking (With Urine Bag Holder, 4Pcs Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/dual-control-5-function-electrical-premium-bed-with-central-locking-(with-urine-bag-holder%2C-4pcs-rails)/b5rp00000001"
+  },
+  {
+    "code": "B5RN00000361",
+    "title": "Single Control 5-Function Electrical Modern Bed (With Urine Bag Holder, 2Pcs SS Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/single-control-5-function-electrical-modern-bed-(with-urine-bag-holder%2C-2pcs-ss-rails)/b5rn00000361"
+  },
+  {
+    "code": "B5RE00000131",
+    "title": "5-Function Casualty/ER Electrical Deluxe Bed P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails & IV Pole) – Space Saving",
+    "category": "Hospital Beds, Stretchers & Wheelchairs",
+    "url": "https://www.aslamenterprises.com/products/5-function-casualty%2Fer-electrical-deluxe-bed-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails-%26-iv-pole)-space-saving/b5re00000131"
+  },
+  {
+    "code": "B5RD00000045",
+    "title": "5-Function Casualty/ER Electrical Deluxe Bed P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails & IV Pole) – Space Saving",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/5-function-casualty%2Fer-electrical-deluxe-bed-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails-%26-iv-pole)-space-saving/b5rd00000045"
+  },
+  {
+    "code": "B5MPD0000367",
+    "title": "Pediatric 5-Function Manual Classic Bed (With IV Pole, Urine Bag Holder, 2Pcs MS Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/pediatric-5-function-manual-classic-bed-(with-iv-pole%2C-urine-bag-holder%2C-2pcs-ms-rails)/b5mpd0000367"
+  },
+  {
+    "code": "B5MN00000053",
+    "title": "5-Function Manual Modern Bed (With Urine Bag Holder, 2Pcs SS Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/5-function-manual-modern-bed-(with%2C-urine-bag-holder%2C-2pcs-ss-rails)/b5mn00000053"
+  },
+  {
+    "code": "B5MD00000028",
+    "title": "5-Function Manual Deluxe Bed (Urine Bag Holder, 4Pcs. Tuck Away Type Deluxe Polymer Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/5-function-manual-deluxe-bed-(urine-bag-holder%2C-4pcs.-tuck-away-type-deluxe-polymer-rails)/b5md00000028"
+  },
+  {
+    "code": "B4SB00000067",
+    "title": "4-Function Dialysis Manual Compact Bed P/C (With Urine Bag Holder, 4Pcs Rails & TV Mount) – Space Saving",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/4-function-dialysis-manual-deluxe-bed-p%2Fc-(with-urine-bag-holder%2C-4pcs-rails-%26-tv-mount)--space-saving/b4sb00000067"
+  },
+  {
+    "code": "B4RE00000112",
+    "title": "4-Function Casualty/ER Electrical Bed P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails & IV Pole) – Space Saving",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/4-function-casualty%2Fer-electrical-deluxe-bed-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails-%26-iv-pole)-space-saving/b4rd00000112"
+  },
+  {
+    "code": "B4RD00000004",
+    "title": "4-Function Electrical Compact Bed P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails & IV Pole) – Space Saving",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/4-function-casualty%2Fer-electrical-deluxe-bed-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails-%26-iv-pole)-space-saving/b4rd00000004"
+  },
+  {
+    "code": "B4GE00000510",
+    "title": "4-Function Manual Casualty Cot With Central Locking P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails) – Space Saving",
+    "category": "Hospital Beds, Stretchers & Wheelchairs",
+    "url": "https://www.aslamenterprises.com/products/4-function-manual-casualty-cot-with-central-locking-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails)-space-saving/b4ge00000510"
+  },
+  {
+    "code": "B4GE00000126",
+    "title": "4-Function Manual Casualty Cot P/C (With Urine Bag Holder, 2Pcs SS Collapsible Rails) – Space Saving",
+    "category": "Hospital Beds, Stretchers & Wheelchairs",
+    "url": "https://www.aslamenterprises.com/products/4-function-manual-casualty-cot-p%2Fc-(with-urine-bag-holder%2C-2pcs-ss-collapsible-rails)-space-saving/b4ge00000126"
+  },
+  {
+    "code": "B4DB00000029",
+    "title": "4-Function Dialysis Eco Modern Bed (With Urine Bag Holder & TV Mount)",
+    "category": "Hospital Beds, Procedure Chairs & Beds",
+    "url": "https://www.aslamenterprises.com/products/4-function-dialysis-manual-modern-bed-(with-urine-bag-holder-%26-tv-mount)/b4db00000029"
+  },
+  {
+    "code": "B3SP00000072",
+    "title": "3-Function Semi Electrical Premium Bed – Very Low Height (With Urine Bag Holder, 2Pcs MS Collapsible Rails)",
+    "category": "Hospital Beds",
+    "url": "https://www.aslamenterprises.com/products/3-function-semi-electrical-premium-bed-very-low-height-(with-urine-bag-holder%2C-2pcs-ms-collapsible-rails)/b3sp00000072"
+  },
+  {
+    "code": "ATMS00000130",
+    "title": "Attendant Couch Sheet Top P/C With Mattress",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/attendant-couch-sheet-top-p%2Fc-with-mattress/atms00000130"
+  },
+  {
+    "code": "ATMUD0000357",
+    "title": "Attendant Couch Deluxe P/C With Underbed Shelf & Mattress",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/attendant-couch-deluxe-p%2Fc-with-underbed-shelf-%26-mattress/atmud0000357"
+  },
+  {
+    "code": "ATMUD0000358",
+    "title": "Attendant Couch Deluxe P/C With Wide Underbed Shelf & Mattress",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/attendant-couch-deluxe-p%2Fc-with-wide-underbed-shelf-%26-mattress/atmud0000358"
+  },
+  {
+    "code": "ATPB00000069",
+    "title": "Attendant Couch P/C With Backrest",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/attendant-couch-p%2Fc-with-backrest/atpb00000069"
+  },
+  {
+    "code": "ATSB00000068",
+    "title": "Attendant Couch SS With Backrest",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/attendant-couch-ss-with-backrest/atsb00000068"
+  },
+  {
+    "code": "ATSR00000356",
+    "title": "Patient Attendant Couch Deluxe SS With Mattress",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/patient-attendant-couch-deluxe-ss-with-mattress/atsr00000356"
+  },
+  {
+    "code": "ATUH00000041",
+    "title": "Suite Attendant Cot With Mattress With Head Up For Suite Room",
+    "category": "Attendant Couches",
+    "url": "https://www.aslamenterprises.com/products/suite-attendant-cot-with-mattress-with-head-up-for-suite-room/atuh00000041"
+  },
+  {
+    "code": "BCMD00000377",
+    "title": "Bedside Locker Dlx P/C",
+    "category": "Bedside Lockers & Cabinets",
+    "url": "https://www.aslamenterprises.com/products/bedside-locker-dlx-p%2Fc/bcmd00000377"
+  },
+  {
+    "code": "BCMO00000203",
+    "title": "Bedside Locker (Ordinary) With Single SS Top:-",
+    "category": "Bedside Lockers & Cabinets",
+    "url": "https://www.aslamenterprises.com/products/bedside-locker-(ordinary)-with-single-ss-top%3A-/bcmo00000203"
+  },
+  {
+    "code": "BCUB00000379",
+    "title": "Underbed Locker",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/underbed-locker/bcub00000379"
+  },
+  {
+    "code": "BCUL00000376",
+    "title": "Suite Bedside Locker Dlx P/C For Suite Room",
+    "category": "Bedside Lockers & Cabinets",
+    "url": "https://www.aslamenterprises.com/products/suite-bedside-locker-dlx-p%2Fc-for-suite-room/bcul00000376"
+  },
+  {
+    "code": "BCUR00000183",
+    "title": "Bedside Locker Dlx (To Accommodate Refrigerator) P/C",
+    "category": "Bedside Lockers & Cabinets",
+    "url": "https://www.aslamenterprises.com/products/bedside-locker-dlx-(to-accomadate-refrigerator)-p%2Fc/bcur00000183"
+  },
+  {
+    "code": "Bedside00154",
+    "title": "Screen -2 Fold (With Curtains) SS",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/screen--2-fold-(with-curtains)-ss/bedside00154"
+  },
+  {
+    "code": "Bedside00155",
+    "title": "Screen -2 Fold (With Curtains) P/C",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/screen--2-fold-(with-curtains)-p%2Fc/bedside00155"
+  },
+  {
+    "code": "BO2M00000277",
+    "title": "Detachable ‘B’ Type Oxygen Cylinder Cage Ms Powder Coated",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/detachable-%E2%80%98b%E2%80%99-type-oxygen-cylinder-cage-ms-powder-coated/bo2m00000277"
+  },
+  {
+    "code": "CDBR00000295",
+    "title": "SS Racks With Baskets For Small Packs",
+    "category": "CSSD Sterile Racks & Tables",
+    "url": "https://www.aslamenterprises.com/products/ss-racks-with-baskets-for-small-packs/cdbr00000295"
+  },
+  {
+    "code": "CDCP00000385",
+    "title": "CSSD Closed Preparation Table SS",
+    "category": "CSSD Sterile Racks & Tables",
+    "url": "https://www.aslamenterprises.com/products/cssd-closed-preparation-table-ss/cdcp00000385"
+  },
+  {
+    "code": "CDCS00000184",
+    "title": "Closed Instrument Trolley / CSSD Closed Shelf Trolley SS",
+    "category": "CSSD Sterile Racks & Tables",
+    "url": "https://www.aslamenterprises.com/products/closed-instrument-trolley%2F-cssd-closed-shelf-trolley-ss/cdcs00000184"
+  },
+  {
+    "code": "CFMS00000177",
+    "title": "Overbed Food Table SS",
+    "category": "Food Tables",
+    "url": "https://www.aslamenterprises.com/products/overbed-food-table-ss/cfms00000177"
+  },
+  {
+    "code": "CFUT00000143",
+    "title": "Suite Cardiac Food Table (Hydraulic Gas Spring Mechanism) P/C",
+    "category": "Food Tables",
+    "url": "https://www.aslamenterprises.com/products/suite-cardiac-food-table-(hydraulic-gas-spring-mechanism)-p%2Fc/cfut00000143"
+  },
+  {
+    "code": "EMPB00000120",
+    "title": "Electrically Operated Phlebotomy Chair Cum Couch On Wheels 2 Axis",
+    "category": "Procedure Chairs & Beds",
+    "url": "https://www.aslamenterprises.com/products/electrically-operated-phlebotomy-chair-cum-couch-on-wheels-2-axis/empb00000120"
+  },
+  {
+    "code": "EMPB00000389",
+    "title": "Electrically Operated Phlebotomy Chair Cum Couch On Wheels 4 Axis",
+    "category": "Procedure Chairs & Beds",
+    "url": "https://www.aslamenterprises.com/products/electrically-operated-phlebotomy-chair-cum-couch-on-wheels-4-axis/empb00000389"
+  },
+  {
+    "code": "EX1FS0000411",
+    "title": "Single Footstep P/C With SS Top",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/single-footstep-p%2Fc-with-ss-top/ex1fs0000411"
+  },
+  {
+    "code": "EX1SS0000409",
+    "title": "Single Footstep SS",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/single-footstep-ss/ex1ss0000409"
+  },
+  {
+    "code": "EXGE10000094",
+    "title": "Gynaec Examination Couch",
+    "category": "Examination Couches & Tables",
+    "url": "https://www.aslamenterprises.com/products/gynaec-examination-couch/exge10000094"
+  },
+  {
+    "code": "EXGE20000391",
+    "title": "Gynaec Examination Couch (With Head Up & Cabinets) P/C With 'U' Cut",
+    "category": "Examination Couches & Tables",
+    "url": "https://www.aslamenterprises.com/products/gynaec-examination-couch-(with-head-up-%26-cabinets)-p%2Fc-with-%27u%27-cut/exge20000391"
+  },
+  {
+    "code": "EXGE20000392",
+    "title": "Gynaec Examination Couch With Lithotomy Rods (With Head Up & Cabinets) P/C With 'U' Cut For Procedure Room",
+    "category": "Examination Couches & Tables",
+    "url": "https://www.aslamenterprises.com/products/gynaec-examination-couch-with-lithotomy-rods-(with-head-up-%26-cabinets)-p%2Fc-with-%27u%27-cut-for-procedure-room/exge20000392"
+  },
+  {
+    "code": "EXGE30000393",
+    "title": "Gynaec Examination Couch (With Head Up & Drawers) P/C For OP For Consultation Rooms-",
+    "category": "Examination Couches & Tables",
+    "url": "https://www.aslamenterprises.com/products/gynaec-examination-couch-(with-head-up-%26-drawers)-p%2Fc-for-op-for-consultation-rooms-/exge30000393"
+  },
+  {
+    "code": "EXMT00000271",
+    "title": "ECG Monitor Stand With Cable Basket P/C & IV Rod",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/ecg-monitor-stand-with-cable-basket-p%2Fc-%26-iv-rod/exmt00000271"
+  },
+  {
+    "code": "EXMT00000272",
+    "title": "Defib/ Vital Signs/Ctg Monitor Stand With Cable Basket P/C",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/defib/-vital-signs/ctg-monitor-stand-with-cable-basket-p%2Fc/exmt00000272"
+  },
+  {
+    "code": "EXSS10000396",
+    "title": "Examination Chair Cushioned On Wheels",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/examination-chair-cushioned-on-wheels/exss10000396"
+  },
+  {
+    "code": "EXSS20000397",
+    "title": "Examination Chair Cushioned",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/examination-chair-cushioned/exss20000397"
+  },
+  {
+    "code": "EXSS30000398",
+    "title": "Surgeons’ Revolving Stool",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/surgeons%E2%80%99-revolving-stool/exss30000398"
+  },
+  {
+    "code": "EXSU00000027",
+    "title": "3-Function Scan Electrical Bed On Wheels Very Low Height",
+    "category": "Procedure Chairs & Beds",
+    "url": "https://www.aslamenterprises.com/products/3-function-scan-electrical-bed-on-wheels-very-low-height/exsu00000027"
+  },
+  {
+    "code": "EXTR00000196",
+    "title": "Examination Couch Trolley P/C",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/examination-couch-trolley-p%2Fc/extr00000196"
+  },
+  {
+    "code": "HK4WB00000415",
+    "title": "Four Waste Bin Trolley SS For Bio Waste/ Garbage With Bin (Color Coded)",
+    "category": "Housekeeping Trolleys",
+    "url": "https://www.aslamenterprises.com/products/four-waste-bin-trolley-ss-for-bio-waste/-garbage-with-bin-(color-coded)/hk4wb00000415"
+  },
+  {
+    "code": "IVC100000417",
+    "title": "SS IV Stand Double Hook On CI Base P/C",
+    "category": "IV Stands",
+    "url": "https://www.aslamenterprises.com/products/ss-iv-stand-double-hook-on-ci-base-p%2Fc/ivc100000417"
+  },
+  {
+    "code": "IVFB00000416",
+    "title": "SS IV Stand On Fibre Base & Wheels (2 Hooks)",
+    "category": "IV Stands",
+    "url": "https://www.aslamenterprises.com/products/ss-iv-stand-on-fibre-base-%26-wheels-(2-hooks)/ivfb00000416"
+  },
+  {
+    "code": "IVMD00000153",
+    "title": "IV Stands SS (SS Base)",
+    "category": "IV Stands",
+    "url": "https://www.aslamenterprises.com/products/iv-stands-ss-(ss-base)/ivmd00000153"
+  },
+  {
+    "code": "MDSS00000141",
+    "title": "Medication Cart SS",
+    "category": "Medication Carts",
+    "url": "https://www.aslamenterprises.com/products/medication-cart-ss/mdss00000141"
+  },
+  {
+    "code": "ODBS00000494",
+    "title": "POP Trolley Double Basin Wash Trolley SS With 4 Drawers Along With Board",
+    "category": "General & Ward Trolleys, OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/pop-trolley-double-basin-wash-trolley-ss-with-4-drawers-along-with-board/odbs00000494"
+  },
+  {
+    "code": "OTAT00000421",
+    "title": "Anesthesia Trolley SS",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/anesthesia-trolley-ss/otat00000421"
+  },
+  {
+    "code": "OTDB00000269",
+    "title": "SS POP Double Basin Wash Trolley SS With 4 Drawers",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/ss-pop-double-basin-wash-trolley-ss-with-4-drawers/otdb00000269"
+  },
+  {
+    "code": "OTDT00000333",
+    "title": "Diathermy Trolley SS",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/diathermy-trolley-ss/otdt00000333"
+  },
+  {
+    "code": "OTDT00000157",
+    "title": "OT Drug Multiple Bins Trolley With Shelves",
+    "category": "OT Trolleys, Medication Carts",
+    "url": "https://www.aslamenterprises.com/products/ot-drug-multiple-bins-trolley-with-shelves/otdt00000157"
+  },
+  {
+    "code": "OTIT70000429",
+    "title": "Overbed Instrument Trolley SS",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/overbed-instrument-trolley-ss/otit70000429"
+  },
+  {
+    "code": "OTIT80000201",
+    "title": "3- Shelf Stainless Steel Instrument Trolley",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/3--shelf-stainless-steel-instrument-trolley/otit80000201"
+  },
+  {
+    "code": "OTJT00000220",
+    "title": "Stainless Steel Jugular Trolley",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/stainless-steel-jugular-trolley/otjt00000220"
+  },
+  {
+    "code": "OTNC00000190",
+    "title": "Narcotics Cabinet SS",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/narcotics-cabinet-ss/otnc00000190"
+  },
+  {
+    "code": "OTNC00000191",
+    "title": "Narcotics Cabinet P/C",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/narcotics-cabinet-p%2Fc/otnc00000191"
+  },
+  {
+    "code": "OTPR00000250",
+    "title": "OT Perforated Rack SS",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/ot-perforated-rack-ss/otpr00000250"
+  },
+  {
+    "code": "OTSS24000442",
+    "title": "Swab Stand SS (24 Hooks)",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/swab-stand-ss-(24-hooks)/otss24000442"
+  },
+  {
+    "code": "OTSS30000433",
+    "title": "Surgeons Revolving Chair SS",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/surgeons-revolving-chair-ss/otss30000433"
+  },
+  {
+    "code": "OTSS40000441",
+    "title": "Swab Count Stand (Mops) SS 40 Hooks",
+    "category": "OT Trolleys",
+    "url": "https://www.aslamenterprises.com/products/swab-count-stand-(mops)-ss-40-hooks/otss40000441"
+  },
+  {
+    "code": "SS2HF0000462",
+    "title": "Hand Wash Scrub SS (Double Station Manual Foot Operated) Floor Standing",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/hand-wash-scrub-ss-(double-station-manual-foot-operated)-floor-standing/ss2hf0000462"
+  },
+  {
+    "code": "SS2HW0000458",
+    "title": "SS Scrub Handwash Double Station (2-Station Manual Elbow Operated)",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/ss-scrub-handwash-double-station-(2--station-manual-elbow-operated)/ss2hw0000458"
+  },
+  {
+    "code": "SS2100000449",
+    "title": "F Surgical Instrument Wash Scrub Double Station",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/f-surgical-instrument-wash-scrub-double-station/ss2100000449"
+  },
+  {
+    "code": "SS21W0000450",
+    "title": "Surgical Instrument Wash Scrub Double Station Type 1",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/surgical-instrument-wash-scrub-double-station-type-1/ss21w0000450"
+  },
+  {
+    "code": "SS21W0000451",
+    "title": "Surgical Instrument Wash Scrub Double Station Type 2",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/surgical-instrument-wash-scrub-double-station-type-2/ss21w0000451"
+  },
+  {
+    "code": "SS3HF0000461",
+    "title": "Hand Wash Scrub SS (Triple Station Manual Foot Operated) Floor Standing",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/hand-wash-scrub-ss-(triple-station-manual-foot-operated)-floor-standing/ss3hf0000461"
+  },
+  {
+    "code": "TTHUHF000081",
+    "title": "Wheel Stretcher Hi‑Low, Foot Operated Hydraulic With Head Prop Up, Collapsible Rails, IV Pole With Central Locking (First Floor)",
     "category": "Stretchers & Wheelchairs",
-    "url": "https://www.aslamenterprises.com/products/advance-emergency-transport-stretcher"
+    "url": "https://www.aslamenterprises.com/products/wheel-stretcher-hi-low%2C-foot-operated-hydraulic-with-head-prop-up%2C-collapsible-rails%2C-iv-pole-with-central-locking-(first-floor)/tthuhf000081"
   },
   {
-    "code": "MPCO00000456",
-    "title": "Premium Patient Comfort Mattress",
+    "code": "TTMT00000466",
+    "title": "Wheel Stretcher P/C (With Oxygen Cylinder Stand, Falling Type Safety Rails)",
+    "category": "Stretchers & Wheelchairs",
+    "url": "https://www.aslamenterprises.com/products/wheel-stretcher-p%2Fc-(with-oxygen-cylinder-stand%2C-falling-type-safety-rails)/ttmt00000466"
+  },
+  {
+    "code": "TTMTHF000039",
+    "title": "Wheel Stretcher Hi‑Low, Foot Operated Hydraulic With Collapsible Rails, IV Pole",
+    "category": "Stretchers & Wheelchairs",
+    "url": "https://www.aslamenterprises.com/products/wheel-stretcher-hi-low%2C-foot-operated-hydraulic-with-collapsible-rails%2C-iv-pole/ttmthf000039"
+  },
+  {
+    "code": "SS2HF0000462",
+    "title": "Hand Wash Scrub SS (Double Station Manual Foot Operated) Floor Standing",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/hand-wash-scrub-ss-(double-station-manual-foot-operated)-floor-standing/ss2hf0000462"
+  },
+  {
+    "code": "SS2HW0000458",
+    "title": "SS Scrub Handwash Double Station (2‑Station Manual Elbow Operated)",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/ss-scrub-handwash-double-station-(2--station-manual-elbow-operated)/ss2hw0000458"
+  },
+  {
+    "code": "SS2100000449",
+    "title": "F Surgical Instrument Wash Scrub Double Station",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/f-surgical-instrument-wash-scrub-double-station/ss2100000449"
+  },
+  {
+    "code": "SS21W0000450",
+    "title": "Surgical Instrument Wash Scrub Double Station Type 1",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/surgical-instrument-wash-scrub-double-station-type-1/ss21w0000450"
+  },
+  {
+    "code": "SS21W0000451",
+    "title": "Surgical Instrument Wash Scrub Double Station Type 2",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/surgical-instrument-wash-scrub-double-station-type-2/ss21w0000451"
+  },
+  {
+    "code": "SS3HF0000461",
+    "title": "Hand Wash Scrub SS (Triple Station Manual Foot Operated) Floor Standing",
+    "category": "Scrub Sinks",
+    "url": "https://www.aslamenterprises.com/products/hand-wash-scrub-ss-(triple-station-manual-foot-operated)-floor-standing/ss3hf0000461"
+  },
+  {
+    "code": "WTBW00000253",
+    "title": "Dressing Cum Weighting M/C Trolley SS",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/dressing-cum-weighting-m%2Fc-trolley-ss/wtbw00000253"
+  },
+  {
+    "code": "WTCC10000198",
+    "title": "Commode Chair (Without Wheels)",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/commode-chair-(without-wheels)/wtcc10000198"
+  },
+  {
+    "code": "WTCC20000491",
+    "title": "Commode Chair On Wheels",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/commode-chair-on-wheels/wtcc20000491"
+  },
+  {
+    "code": "WTCT20000255",
+    "title": "Cylinder Trolley Bulk C Type P/C",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/cylinder-trolley-bulk-c-type-p%2Fc/wtct20000255"
+  },
+  {
+    "code": "WTEC10000299",
+    "title": "ECG / Defib Trolley SS",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/ecg-/defib-trolley-ss/wtec10000299"
+  },
+  {
+    "code": "WTEC20000207",
+    "title": "ECG / Defib Trolley SS Model‑2",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/ecg-/defib-trolley-ss-model-2/wtec20000207"
+  },
+  {
+    "code": "WTED00000223",
+    "title": "Emergency Drug Cart P/C",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/emergency-drug-cart-p%2Fc/wted00000223"
+  },
+  {
+    "code": "WTES00000222",
+    "title": "Emergency Drug Cart in SS (Size 25 inch L × 16.5 inch W × 35 inch H)",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/emergency-drug-cart-in-ss-size-25-inch-lx16.5-inch-wx35-inch-h/wtes00000222"
+  },
+  {
+    "code": "WTMC00000300",
+    "title": "Medicine/Consumable Trolley",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/medicine/consumable-trolley-/wtmc00000300"
+  },
+  {
+    "code": "WTSC00000492",
+    "title": "Kidney Tray, Urine Pot, Spittoon Cabinet",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/kidney-tray%2C-urine-pot%2C-spittoon-cabinet/wtsc00000492"
+  },
+  {
+    "code": "WTSD10000193",
+    "title": "Dressing Trolley With SS Top With Drawer",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/dressing-trolley-with-ss-top-with-drawer/wtsd10000193"
+  },
+  {
+    "code": "WTSD20000179",
+    "title": "Dressing Trolley With Bucket & Bowl SS",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/dressing-trolley-with-bucket-%26-bowl-ss/wtsd20000179"
+  },
+  {
+    "code": "WWTBC00000301",
+    "title": "Baby Cradle P/C (Rocking)",
+    "category": "General & Ward Trolleys",
+    "url": "https://www.aslamenterprises.com/products/baby-cradle-p%2Fc-(rocking)/wwtbc0000301"
+  },
+  {
+    "code": "AEPR02540254",
+    "title": "Sanitizer Holder",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/sanitizer-holder/aepr02540254"
+  },
+  {
+    "code": "AEPR03720372",
+    "title": "Mattress For Above Bunker Beds",
     "category": "Mattress & Pillows",
-    "url": "https://www.aslamenterprises.com/products/patient-comfort-mattress",
-    "image": "/assets/img/products/mpco00000456.jpg"
+    "url": "https://www.aslamenterprises.com/products/mattress-for-above-bunker-beds/aepr03720372"
+  },
+  {
+    "code": "AEPR03730373",
+    "title": "Mattress For Above Regular Patient Beds",
+    "category": "Mattress & Pillows",
+    "url": "https://www.aslamenterprises.com/products/mattress-for-above-regular-patient-beds/aepr03730373"
+  },
+  {
+    "code": "AEPR03740374",
+    "title": "Mattress For Above Space Saving Patient Beds",
+    "category": "Mattress & Pillows",
+    "url": "https://www.aslamenterprises.com/products/mattress-for-above-space-saving-patient-beds/aepr03740374"
+  },
+  {
+    "code": "AEPR03750219",
+    "title": "Premium Pillow",
+    "category": "Mattress & Pillows",
+    "url": "https://www.aslamenterprises.com/products/premium-pillow/aepr03750219"
+  },
+  {
+    "code": "AEPR04670467",
+    "title": "Mattress For Stretcher",
+    "category": "Mattress & Pillows",
+    "url": "https://www.aslamenterprises.com/products/mattress-for-stretcher/aepr04670467"
+  },
+  {
+    "code": "AEPR04950495",
+    "title": "Three‑Seater Metal Chairs",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/three--seater-metal-chairs/aepr04950495"
+  },
+  {
+    "code": "AEPR04960496",
+    "title": "Three‑Seater Metal Chairs With Cushioned",
+    "category": "Stools & General Chairs",
+    "url": "https://www.aslamenterprises.com/products/three-seater-metal-chairs-with-cushioned/aepr04960496"
+  },
+  {
+    "code": "AEPR04970497",
+    "title": "Patient Shifting Roller",
+    "category": "Accessories",
+    "url": "https://www.aslamenterprises.com/products/patient-shifting-roller/aepr04970497"
   }
 ]
