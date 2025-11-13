@@ -19,7 +19,7 @@ const SMTP_HOST = 'smtp.example.com';
 const SMTP_PORT = 587;
 const SMTP_USER = 'no-reply@example.com';
 const SMTP_PASS = 'change-me';
-const SMTP_ENCRYPTION = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_STARTTLS;
+const SMTP_ENCRYPTION = 'tls';
 const SMTP_FROM_EMAIL = EMAIL_PRIMARY;
 const SMTP_FROM_NAME = BRAND_NAME;
 
