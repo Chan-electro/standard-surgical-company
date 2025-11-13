@@ -103,7 +103,7 @@ function field_error(array $errors, string $formKey, string $name): ?string
     return $errors[$formKey][$name] ?? null;
 }
 ?>
-<section class="section" aria-labelledby="quote-heading">
+<section class="section" aria-labelledby="quote-heading" data-animate>
     <div class="section__header">
         <h1 id="quote-heading">Work with <?= BRAND_NAME; ?></h1>
         <p>Share your project details or career interests. Our specialists will respond within one business day.</p>
@@ -114,10 +114,10 @@ function field_error(array $errors, string $formKey, string $name): ?string
             <div class="alert alert--error" role="alert"><?= sanitize($errorMessage); ?></div>
         <?php endif; ?>
     </div>
-    <div class="forms-grid">
+    <div class="forms-grid" data-animate>
         <?php foreach ($forms as $key => $title): ?>
             <?php $formErrors = $errors[$key]; ?>
-            <form class="quote-form" method="post" novalidate data-form="<?= $key; ?>">
+            <form class="quote-form" method="post" novalidate data-form="<?= $key; ?>" data-animate>
                 <input type="hidden" name="csrf_token" value="<?= csrf_token(); ?>">
                 <input type="hidden" name="form_key" value="<?= $key; ?>">
                 <input type="text" name="organization" value="" tabindex="-1" aria-hidden="true" class="honeypot">

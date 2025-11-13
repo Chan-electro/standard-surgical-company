@@ -1,6 +1,6 @@
-# aslams — Health Care Equipment
+# Standard Surgical Company
 
-This repository contains a lightweight PHP 8.1 website for aslams — Health Care Equipment. The site is built without a framework and uses a simple front controller (`routes.php`) to serve modular pages from `/pages` with shared layout elements in `/includes`.
+This repository contains a lightweight PHP 8.1 website for Standard Surgical Company. The site is built without a framework and uses a simple front controller (`routes.php`) to serve modular pages from `/pages` with shared layout elements in `/includes`.
 
 ## Requirements
 
@@ -38,7 +38,7 @@ This repository contains a lightweight PHP 8.1 website for aslams — Health Car
 
 ## Key Features
 
-- **Unified layout** with sticky navigation, active states, and shared brand tokens defined via CSS variables.
+- **Cozy design system** with gradient surfaces, smooth reveal animations, and sticky navigation tuned for the Standard Surgical Company brand.
 - **Accessible design**: semantic headings, visible focus states, ARIA attributes, and keyboard-friendly sliders.
 - **Get a Quote workflows**: two secure forms with CSRF protection, honeypot trap, session rate-limiting, PHPMailer-based email notifications, and MySQL lead storage.
 - **Products catalogue**: server-side filtering, pagination, feature badges, and per-card Product JSON-LD schema.
