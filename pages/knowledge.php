@@ -23,18 +23,18 @@ try {
     }
 }
 ?>
-<section class="section" aria-labelledby="knowledge-heading">
+<section class="section" aria-labelledby="knowledge-heading" data-animate>
     <div class="section__header">
         <h1 id="knowledge-heading">Knowledge Center</h1>
         <p>Field-tested advice on designing and maintaining high-performance hospital furniture.</p>
     </div>
-    <div class="category-chips" role="toolbar" aria-label="Knowledge categories">
+    <div class="category-chips" role="toolbar" aria-label="Knowledge categories" data-animate>
         <a class="chip <?= $category === '' ? 'is-active' : ''; ?>" href="/?page=knowledge">All</a>
         <?php foreach ($categories as $cat): ?>
             <a class="chip <?= $category === $cat ? 'is-active' : ''; ?>" href="/?page=knowledge&amp;category=<?= urlencode($cat); ?>"><?= sanitize($cat); ?></a>
         <?php endforeach; ?>
     </div>
-    <div class="grid grid--posts">
+    <div class="grid grid--posts" data-animate>
         <?php foreach ($posts as $post): ?>
             <?php
                 $excerpt = $post['excerpt'] ?? excerpt($post['content'] ?? '', 240);
