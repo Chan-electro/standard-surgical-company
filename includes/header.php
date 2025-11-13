@@ -3,16 +3,16 @@ require_once __DIR__ . '/functions.php';
 
 $page = $_GET['page'] ?? 'home';
 $pageTitles = [
-    'home' => BRAND_NAME . ' | Hospital Furniture Manufacturer',
+    'home' => BRAND_NAME . ' | Hospital Furniture Crafted for Comfort',
     'products' => 'Products | ' . BRAND_NAME,
     'knowledge' => 'Knowledge Center | ' . BRAND_NAME,
     'get-a-quote' => 'Get a Quote | ' . BRAND_NAME,
 ];
 $metaDescriptions = [
-    'home' => 'aslams designs and manufactures innovative hospital furniture for ICUs, wards, and specialty care environments across India.',
-    'products' => 'Explore hospital beds, stretchers, ICU furniture, and medical accessories engineered for clinical excellence.',
-    'knowledge' => 'Insights and best practices on hospital furniture planning, infection control, and patient-centric design.',
-    'get-a-quote' => 'Request a tailored quotation or explore career opportunities with aslams — Health Care Equipment.',
+    'home' => 'Standard Surgical Company designs and manufactures innovative hospital furniture for ICUs, wards, and specialty care environments across India.',
+    'products' => 'Explore hospital beds, stretchers, ICU furniture, and medical accessories engineered by Standard Surgical Company.',
+    'knowledge' => 'Insights and best practices on hospital furniture planning, infection control, and patient-centric design from Standard Surgical Company.',
+    'get-a-quote' => 'Request a tailored quotation or explore career opportunities with Standard Surgical Company.',
 ];
 $title = $pageTitles[$page] ?? BRAND_NAME;
 $description = $metaDescriptions[$page] ?? $metaDescriptions['home'];
@@ -47,11 +47,14 @@ function nav_is_active(string $target): bool
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
 </head>
 <body>
-<header class="site-header" role="banner">
+<header class="site-header" role="banner" data-animate>
     <div class="site-header__inner">
         <a class="brand" href="/?page=home">
-            <span class="brand__title"><?= BRAND_NAME; ?></span>
-            <span class="brand__tagline">Trusted hospital furniture partner</span>
+            <span class="brand__mark" aria-hidden="true">SSC</span>
+            <span class="brand__text">
+                <span class="brand__title"><?= BRAND_NAME; ?></span>
+                <span class="brand__tagline">Care-first hospital furniture specialists</span>
+            </span>
         </a>
         <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
@@ -67,7 +70,9 @@ function nav_is_active(string $target): bool
                 <li><a class="<?= nav_is_active('get-a-quote') ? 'is-active' : ''; ?>" href="/?page=get-a-quote">Get a Quote</a></li>
             </ul>
         </nav>
-        <a class="btn btn-primary" href="/?page=get-a-quote">Get a Quote</a>
+        <div class="site-header__cta">
+            <a class="btn btn-primary" href="/?page=get-a-quote">Get a Quote</a>
+        </div>
     </div>
 </header>
 <main class="site-main" role="main">

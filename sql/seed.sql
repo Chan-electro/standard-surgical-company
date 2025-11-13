@@ -78,7 +78,7 @@ ON DUPLICATE KEY UPDATE title = VALUES(title);
 
 INSERT INTO testimonials (author_name, role_title, message) VALUES
 ('Dr. Neha Sharma', 'Chief Medical Officer, CityCare Hospitals', 'The ICU Care Bed Pro series has drastically improved patient handling time and staff ergonomics across our network.'),
-('Rajesh Patel', 'Procurement Head, Sunrise Dialysis', 'Installation and training were seamless. aslams\' project team ensured zero downtime during our expansion.'),
+('Rajesh Patel', 'Procurement Head, Sunrise Dialysis', 'Installation and training were seamless. Standard Surgical Company\'s project team ensured zero downtime during our expansion.'),
 ('Anita Kumar', 'Nursing Superintendent, Rainbow Kids Hospital', 'Pediatric Comfort Beds are a hit with families—soft edges, integrated entertainment, and effortless cleaning.')
 ON DUPLICATE KEY UPDATE message = VALUES(message);
 

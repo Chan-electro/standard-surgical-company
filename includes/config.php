@@ -1,10 +1,10 @@
 <?php
 // Global configuration constants
-const BRAND_NAME = 'aslams — Health Care Equipment';
+const BRAND_NAME = 'Standard Surgical Company';
 const ADDRESS = 'Plot No. 112, Medical Devices Park, Sultanpur, Sangareddy Dist., Telangana, India — 502319';
 const PHONE = '+919876543210';
 const PHONE_DISPLAY = '+91 98765 43210';
-const EMAIL_PRIMARY = 'contact@aslamenterprise.com';
+const EMAIL_PRIMARY = 'hello@standardsurgicalcompany.com';
 
 // Database credentials
 const DB_HOST = '127.0.0.1';

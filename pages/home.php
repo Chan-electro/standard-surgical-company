@@ -26,9 +26,15 @@ try {
 ?>
 <section class="hero" aria-labelledby="home-hero-title">
     <div class="hero__content">
-        <div class="hero__text">
-            <h1 id="home-hero-title">Advancing Patient Care with Precision-Built Hospital Furniture</h1>
-            <p>From intensive care units to specialty clinics, <?= BRAND_NAME; ?> engineers smart furniture ecosystems that elevate patient comfort and empower clinical teams.</p>
+        <div class="hero__text" data-animate>
+            <span class="hero__eyebrow">Trusted by healing spaces across India</span>
+            <h1 id="home-hero-title">Warm, Patient-First Furniture for Modern Hospitals</h1>
+            <p><?= BRAND_NAME; ?> curates cozy, human-centered environments with ergonomic beds, modular storage, and calming finishes that help teams deliver their best care.</p>
+            <ul class="hero__features">
+                <li>Calming palettes designed with clinicians</li>
+                <li>Antimicrobial finishes and intuitive controls</li>
+                <li>Dedicated service engineers available nationwide</li>
+            </ul>
             <div class="hero__actions">
                 <a class="btn btn-primary" href="/?page=products">Explore Products</a>
                 <a class="btn btn-outline" href="/?page=get-a-quote">Request a Quote</a>
@@ -42,7 +48,7 @@ try {
                 <?php endforeach; ?>
             </dl>
         </div>
-        <div class="hero__visual">
+        <div class="hero__visual" data-animate>
             <picture>
                 <source srcset="/assets/img/hero-bed@2x.webp 2x, /assets/img/hero-bed.webp 1x" type="image/webp">
                 <img src="/assets/img/hero-bed.jpg" alt="Healthcare professionals adjusting an ICU bed" width="680" height="520">
@@ -50,7 +56,7 @@ try {
         </div>
     </div>
 </section>
-<section class="section" aria-labelledby="section-solutions">
+<section class="section" aria-labelledby="section-solutions" data-animate>
     <div class="section__header">
         <h2 id="section-solutions">Complete Clinical Furniture Solutions</h2>
         <p>Modular hospital furniture programs designed for fast deployment, infection control, and streamlined care delivery.</p>
@@ -78,7 +84,7 @@ try {
         </article>
     </div>
 </section>
-<section class="section" aria-labelledby="section-clients" data-component="client-carousel">
+<section class="section" aria-labelledby="section-clients" data-component="client-carousel" data-animate>
     <div class="section__header">
         <h2 id="section-clients">Trusted by Leading Hospitals</h2>
         <p>Healthcare networks rely on our manufacturing excellence and nationwide service teams.</p>
@@ -91,7 +97,7 @@ try {
         <?php endforeach; ?>
     </div>
 </section>
-<section class="section" aria-labelledby="section-products">
+<section class="section" aria-labelledby="section-products" data-animate>
     <div class="section__header">
         <h2 id="section-products">Featured Hospital Furniture</h2>
         <p>Newest launches designed for safety, hygiene, and effortless maintenance.</p>
@@ -113,7 +119,7 @@ try {
         <?php endforeach; ?>
     </div>
 </section>
-<section class="section" aria-labelledby="section-knowledge">
+<section class="section" aria-labelledby="section-knowledge" data-animate>
     <div class="section__header">
         <h2 id="section-knowledge">Knowledge Center</h2>
         <p>Practical guidance from our hospital furniture consultants and engineers.</p>
@@ -135,7 +141,7 @@ try {
         <?php endforeach; ?>
     </div>
 </section>
-<section class="section section--accent" aria-labelledby="section-testimonials">
+<section class="section section--accent" aria-labelledby="section-testimonials" data-animate>
     <div class="section__header">
         <h2 id="section-testimonials">Voices from Our Partners</h2>
         <p>Hear from hospital administrators and clinicians who work with us every day.</p>
@@ -160,7 +166,7 @@ try {
         <p>Testimonials coming soon.</p>
     <?php endif; ?>
 </section>
-<section class="section section--cta" aria-labelledby="section-cta">
+<section class="section section--cta" aria-labelledby="section-cta" data-animate>
     <div class="section__header">
         <h2 id="section-cta">Partner with <?= BRAND_NAME; ?></h2>
     </div>

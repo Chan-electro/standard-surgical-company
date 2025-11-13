@@ -111,13 +111,13 @@ foreach ($filters['specialties'] ?? [] as $item) {
     }
 }
 ?>
-<section class="section" aria-labelledby="products-heading">
+<section class="section" aria-labelledby="products-heading" data-animate>
     <div class="section__header">
         <h1 id="products-heading">Hospital Furniture Products</h1>
         <p>Discover modular, ergonomic hospital furniture engineered for demanding clinical environments.</p>
     </div>
     <div class="products-layout">
-        <aside class="filter-panel" aria-label="Product filters">
+        <aside class="filter-panel" aria-label="Product filters" data-animate>
             <form method="get" action="" class="filter-form">
                 <input type="hidden" name="page" value="products">
                 <input type="hidden" name="page_num" value="1">
@@ -181,7 +181,7 @@ foreach ($filters['specialties'] ?? [] as $item) {
                 </div>
             </form>
         </aside>
-        <div class="products-results">
+        <div class="products-results" data-animate>
             <p class="products-count" role="status"><?= $total; ?> product<?= $total === 1 ? '' : 's'; ?> found</p>
             <div class="grid grid--products">
                 <?php foreach ($products as $product): ?>
